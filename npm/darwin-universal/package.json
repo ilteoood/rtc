@@ -1,0 +1,15 @@
+{
+  "name": "rtc-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "rtc.darwin-universal.node",
+  "files": [
+    "rtc.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
